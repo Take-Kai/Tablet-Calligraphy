@@ -35,8 +35,7 @@
 
 2つ使用する理由は、タブレット端末の個体差を評価するためです。
 
-![HUAWEIタブレット](https://github.com/Take-Kai/Tablet-Calligraphy/assets/169955027/188b0e07-fbb1-464e-a935-cbf2afd28f55)
-
+<img width="500" alt="huawei" src="https://github.com/Take-Kai/Tablet-Calligraphy/assets/169955027/b8bce327-ad10-4a2e-aaec-b42bda95eba1">
 
 ![NECタブレット](https://github.com/Take-Kai/Tablet-Calligraphy/assets/169955027/f3021a8a-a087-408d-b685-0c0b0fbfa7fe)
 
