@@ -57,7 +57,8 @@
 
 これらの機能は、操作画面右上のメニューバーにあるアイコンをタップすることで実行できます。
 
-メニューバーの画像
+<img width="201" alt="kihonn" src="https://github.com/Take-Kai/Tablet-Calligraphy/assets/169955027/b316cecf-3401-4717-8194-2ec7d3cb98f0">
+
 
 作品の保存機能は、書いた作品をAndroidタブレットのファイルに保存します。この機能はBitmapを作成することで実装しています。
 
