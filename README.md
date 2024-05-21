@@ -107,7 +107,8 @@
 
 ## 現在のシステム
 
-ここに現在のシステムの写真
+<img width="500" alt="NowSystem" src="https://github.com/Take-Kai/Tablet-Calligraphy/assets/169955027/e3e065ac-7758-4b90-aa72-a3f6f66c1ec4">
+
 
 
 ## 課題と今後の展望
