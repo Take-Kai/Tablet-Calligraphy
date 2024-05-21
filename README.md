@@ -65,7 +65,7 @@
 
 色選択機能は、色を赤、青、黒に変えることができます。この機能は、書道パフォーマンス特有のカラフルな色使いを表現するために実装しました。
 
-色選択機能の画像
+<img width="500" alt="iro" src="https://github.com/Take-Kai/Tablet-Calligraphy/assets/169955027/909edba3-d9db-467d-a318-411b9c283be0">
 
 
 ## 書道のような表現の実装
