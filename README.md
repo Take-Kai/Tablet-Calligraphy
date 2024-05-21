@@ -37,7 +37,7 @@
 
 <img width="500" alt="huawei" src="https://github.com/Take-Kai/Tablet-Calligraphy/assets/169955027/b8bce327-ad10-4a2e-aaec-b42bda95eba1">
 
-![NECタブレット](https://github.com/Take-Kai/Tablet-Calligraphy/assets/169955027/f3021a8a-a087-408d-b685-0c0b0fbfa7fe)
+<img width="500" alt="nec" src="https://github.com/Take-Kai/Tablet-Calligraphy/assets/169955027/98b59eb5-bda5-4c48-b5e3-ec3f94a8ba53">
 
 
 文字の描画には導電性の布と糸で加工を施した書道筆を用います。
