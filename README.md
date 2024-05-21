@@ -111,6 +111,8 @@
 <img width="500" alt="NowSystem" src="https://github.com/Take-Kai/Tablet-Calligraphy/assets/169955027/e3e065ac-7758-4b90-aa72-a3f6f66c1ec4">
 
 
+<img width="500" alt="kaizenn" src="https://github.com/Take-Kai/Tablet-Calligraphy/assets/169955027/a3f6159a-06cf-48be-a509-73a2c5d78017">
+
 
 ## 課題と今後の展望
 
