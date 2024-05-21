@@ -45,7 +45,7 @@
 
 導電性の布は書道筆の穂先に取り付けられ、導電性の糸は書道筆の持ち手の部分に巻き付けられています。
 
-<img width="250" alt="fude" src="https://github.com/Take-Kai/Tablet-Calligraphy/assets/169955027/3c0dd1a3-89ea-44c2-9ddb-ed3e1d63558f">
+<img width="500" alt="fude" src="https://github.com/Take-Kai/Tablet-Calligraphy/assets/169955027/3c0dd1a3-89ea-44c2-9ddb-ed3e1d63558f">
 
 
 
